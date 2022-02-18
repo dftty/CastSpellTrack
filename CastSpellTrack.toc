@@ -1,0 +1,12 @@
+## Interface: 90105
+## Title:CastSpellTrack
+## Author:Lessice
+## Version:0.0.1
+## SavedVariables:CastSpellTrackDB
+
+libs\load_libs.xml
+init.lua
+locales.xml
+TrackBase.lua
+UnitConfig.lua
+CastSpellTrack.lua

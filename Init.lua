@@ -1,0 +1,3 @@
+local _, CST = ...
+
+CST.L = {}
